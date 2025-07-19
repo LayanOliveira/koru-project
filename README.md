@@ -4,14 +4,13 @@ Nesse site vocês encontram os comandos [git branch](https://cpske.github.io/ISP
 
 **Principais:**
 
-Ver todas as branches existentes: **git branch** 
+Ver todas as branches existentes: **git branch**
 
 Criar uma branch nova: **git branch nome-da-branch**
 
-Navegar para outra branch: **git checkout nome-da-branch** 
+Navegar para outra branch: **git checkout nome-da-branch**
 
 Criar uma branch nova e já navegar pra ela: **git checkout -b nome-da-branch**
-
 
 ### Exercício 1: Primeiros Passos com Node.js
 
