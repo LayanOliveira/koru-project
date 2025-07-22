@@ -1,6 +1,6 @@
 // Operadores lógicos
-const isOfAge = true; 
-const hasLicense = false; 
+const isOfAge = true;
+const hasLicense = false;
 
 //Estrutura Condicional
 if (isOfAge && hasLicense) {
